@@ -1,0 +1,135 @@
+# Android / Gradle
+.gradle/
+**/.gradle/
+build/
+**/build/
+.kotlin/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+**/.cxx/
+**/externalNativeBuild/
+
+# Android build files
+*.apk
+*.aab
+output-metadata.json
+*.hprof
+app/debug/
+app/outputs/
+app/intermediates/
+app/generated/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# C / C++
+*.d
+*.o
+*.obj
+*.slo
+*.lo
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.so
+*.so.*
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.dwo
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# C++ build files
+Build/
+build-*/
+vcpkg_installed/
+
+# Java / Kotlin
+*.class
+*.ctxt
+.mtj.tmp/
+*.kotlin_module
+
+# Crash reports
+hs_err_pid*
+replay_pid*
+
+# Archives
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Testing and cache
+Testing/
+.cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Secrets and credentials
+secrets/
+*.secret
+*.secrets
+secrets.properties
+keystore.properties
+credentials.json
+credentials.xml
+apikeys.properties
+api-keys.json
+service-account*.json
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# Keystores and certificates
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Cloud credentials
+.aws/
+.gcloud/
+.azure/
