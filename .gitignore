@@ -133,3 +133,6 @@ GoogleService-Info.plist
 .aws/
 .gcloud/
 .azure/
+
+# VS Code
+.vscode
