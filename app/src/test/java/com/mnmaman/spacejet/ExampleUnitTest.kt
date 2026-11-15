@@ -1,4 +1,4 @@
-package com.example.spacejet
+package com.mnmaman.spacejet
 
 import org.junit.Test
 
